@@ -1,5 +1,6 @@
 const faker = require("faker");
 const fs = require("fs");
+
 const generatePersonsData = (number) => {
   const lists = [];
   while (number >= 0) {
@@ -120,10 +121,10 @@ const equalDatas = (number, number2) => {
 
 fs.writeFileSync(
   "./public/products.json",
-  JSON.stringify({ products: generatePersonsData(36)})
+  JSON.stringify(generatePersonsData(36))
 );
 
 fs.writeFileSync(
   "./public/equal.json",
-  JSON.stringify({equal: equalDatas(30, 5) })
+  JSON.stringify(equalDatas(30, 5))
 );
