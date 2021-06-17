@@ -1,0 +1,315 @@
+{
+    "products": [{
+        "beginIndex": 0,
+    "endIndex": 0,
+    "page": {
+        "current": "1",
+        "size": 10,
+        "total": 68,
+        "brndId": null,
+        "personas": []
+    },
+    "godList": [
+        {
+            "godNo": "GP0020030400543",
+            "erpGodNo": "P0020200304003",
+            "dsgnGrpNo": "P0020200304003",
+            "godNm": "테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/04/GP0020030400543_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900681",
+            "erpGodNo": "P0020200309001",
+            "dsgnGrpNo": "P0020200309001",
+            "godNm": "에디터 변경",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900681_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900682",
+            "erpGodNo": "P0020200309002",
+            "dsgnGrpNo": "P0020200309002",
+            "godNm": "상품상세 정보 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900682_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900684",
+            "erpGodNo": "P0020200309004",
+            "dsgnGrpNo": "P0020200309004",
+            "godNm": "상품상세 참조 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900684_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020031100781",
+            "erpGodNo": "P0020200311001",
+            "dsgnGrpNo": "P0020200311001",
+            "godNm": "해외 직구상품 여부 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 2000,
+            "imgUrl": "/goods/TMBR/20/03/11/GP0020031100781_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501382",
+            "erpGodNo": "AE1J1NEP4791N909",
+            "dsgnGrpNo": "AE1J1NEP4791N",
+            "godNm": "erp 전송 테스트 2",
+            "salePrc": 79900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501382_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501383",
+            "erpGodNo": "AE1J1NEP1780W978",
+            "dsgnGrpNo": "AE1J1NEP1780W",
+            "godNm": "AE1J1NEP1780W978",
+            "salePrc": 69900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501383_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030600601",
+            "erpGodNo": "P00202003060001",
+            "dsgnGrpNo": "P00202003060001",
+            "godNm": "기본 전시카테고리",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/06/GP0020030600601_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030800665",
+            "erpGodNo": "P00GODDETAILDIRDSCR",
+            "dsgnGrpNo": "P00GODDETAILDIRDSCR",
+            "godNm": "godDetailDirDscr",
+            "salePrc": 55000,
+            "aplSalePrc": 52250,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/08/GP0020030800665_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020040102202",
+            "erpGodNo": "T42A0RDR001GT2NY",
+            "dsgnGrpNo": "T42A0RDR001GT2NY",
+            "godNm": "이미지 테스트",
+            "salePrc": 125000,
+            "aplSalePrc": 118750,
+            "invQty": 688,
+            "imgUrl": "/goods/TOGR/20/04/01/GM0020040102202_0_ORGINL_LOCAL.jpg"
+        },{
+            "godNo": "GP0020030400543",
+            "erpGodNo": "P0020200304003",
+            "dsgnGrpNo": "P0020200304003",
+            "godNm": "테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/04/GP0020030400543_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900681",
+            "erpGodNo": "P0020200309001",
+            "dsgnGrpNo": "P0020200309001",
+            "godNm": "에디터 변경",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900681_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900682",
+            "erpGodNo": "P0020200309002",
+            "dsgnGrpNo": "P0020200309002",
+            "godNm": "상품상세 정보 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900682_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900684",
+            "erpGodNo": "P0020200309004",
+            "dsgnGrpNo": "P0020200309004",
+            "godNm": "상품상세 참조 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900684_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020031100781",
+            "erpGodNo": "P0020200311001",
+            "dsgnGrpNo": "P0020200311001",
+            "godNm": "해외 직구상품 여부 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 2000,
+            "imgUrl": "/goods/TMBR/20/03/11/GP0020031100781_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501382",
+            "erpGodNo": "AE1J1NEP4791N909",
+            "dsgnGrpNo": "AE1J1NEP4791N",
+            "godNm": "erp 전송 테스트 2",
+            "salePrc": 79900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501382_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501383",
+            "erpGodNo": "AE1J1NEP1780W978",
+            "dsgnGrpNo": "AE1J1NEP1780W",
+            "godNm": "AE1J1NEP1780W978",
+            "salePrc": 69900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501383_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030600601",
+            "erpGodNo": "P00202003060001",
+            "dsgnGrpNo": "P00202003060001",
+            "godNm": "기본 전시카테고리",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/06/GP0020030600601_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030800665",
+            "erpGodNo": "P00GODDETAILDIRDSCR",
+            "dsgnGrpNo": "P00GODDETAILDIRDSCR",
+            "godNm": "godDetailDirDscr",
+            "salePrc": 55000,
+            "aplSalePrc": 52250,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/08/GP0020030800665_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020040102202",
+            "erpGodNo": "T42A0RDR001GT2NY",
+            "dsgnGrpNo": "T42A0RDR001GT2NY",
+            "godNm": "이미지 테스트",
+            "salePrc": 125000,
+            "aplSalePrc": 118750,
+            "invQty": 688,
+            "imgUrl": "/goods/TOGR/20/04/01/GM0020040102202_0_ORGINL_LOCAL.jpg"
+        },{
+            "godNo": "GP0020030400543",
+            "erpGodNo": "P0020200304003",
+            "dsgnGrpNo": "P0020200304003",
+            "godNm": "테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/04/GP0020030400543_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900681",
+            "erpGodNo": "P0020200309001",
+            "dsgnGrpNo": "P0020200309001",
+            "godNm": "에디터 변경",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900681_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900682",
+            "erpGodNo": "P0020200309002",
+            "dsgnGrpNo": "P0020200309002",
+            "godNm": "상품상세 정보 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900682_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030900684",
+            "erpGodNo": "P0020200309004",
+            "dsgnGrpNo": "P0020200309004",
+            "godNm": "상품상세 참조 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 3000,
+            "imgUrl": "/goods/TMBR/20/03/09/GP0020030900684_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020031100781",
+            "erpGodNo": "P0020200311001",
+            "dsgnGrpNo": "P0020200311001",
+            "godNm": "해외 직구상품 여부 테스트",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 2000,
+            "imgUrl": "/goods/TMBR/20/03/11/GP0020031100781_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501382",
+            "erpGodNo": "AE1J1NEP4791N909",
+            "dsgnGrpNo": "AE1J1NEP4791N",
+            "godNm": "erp 전송 테스트 2",
+            "salePrc": 79900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501382_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020031501383",
+            "erpGodNo": "AE1J1NEP1780W978",
+            "dsgnGrpNo": "AE1J1NEP1780W",
+            "godNm": "AE1J1NEP1780W978",
+            "salePrc": 69900,
+            "aplSalePrc": 39900,
+            "invQty": 0,
+            "imgUrl": "/goods/AEGR/20/03/15/GM0020031501383_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030600601",
+            "erpGodNo": "P00202003060001",
+            "dsgnGrpNo": "P00202003060001",
+            "godNm": "기본 전시카테고리",
+            "salePrc": 500000,
+            "aplSalePrc": 475000,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/06/GP0020030600601_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GP0020030800665",
+            "erpGodNo": "P00GODDETAILDIRDSCR",
+            "dsgnGrpNo": "P00GODDETAILDIRDSCR",
+            "godNm": "godDetailDirDscr",
+            "salePrc": 55000,
+            "aplSalePrc": 52250,
+            "invQty": 1000,
+            "imgUrl": "/goods/TMBR/20/03/08/GP0020030800665_0_ORGINL_LOCAL.jpg"
+        },
+        {
+            "godNo": "GM0020040102202",
+            "erpGodNo": "T42A0RDR001GT2NY",
+            "dsgnGrpNo": "T42A0RDR001GT2NY",
+            "godNm": "이미지 테스트",
+            "salePrc": 125000,
+            "aplSalePrc": 118750,
+            "invQty": 688,
+            "imgUrl": "/goods/TOGR/20/04/01/GM0020040102202_0_ORGINL_LOCAL.jpg"
+        }
+    ]
+    }
+        
+    ]
+}
