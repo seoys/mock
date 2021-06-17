@@ -10,8 +10,12 @@ fastify.register(require('fastify-static'), {
 })
 
 // Declare a route
-fastify.get('/', function (request, reply) {
-    reply.sendFile(`db.json`)
+fastify.get('/products', function (request, reply) {
+    reply.sendFile(`products.json`)
+})
+
+fastify.get('/equal', function (request, reply) {
+    reply.sendFile(`equal.json`)
 })
 
 // Run the server!
