@@ -4,9 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev" : "json-server --watch db.json --port 8085"
+    "dev": "json-server --watch db.json --port 8085"
   },
   "dependencies": {
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "fastify": "^3.18.0"
   }
 }
