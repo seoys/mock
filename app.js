@@ -118,8 +118,7 @@ const equalDatas = (number, number2) => {
   return prod;
 }
 
-
 fs.writeFileSync(
-  "./db.json",
+  "./public/db.json",
   JSON.stringify({ products: generatePersonsData(36), equal: equalDatas(30, 5) })
 );

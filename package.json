@@ -4,10 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "json-server --watch db.json --port 8085"
+    "dev": "pm2 start index.js"
   },
   "dependencies": {
     "faker": "^5.5.3",
-    "fastify": "^3.18.0"
+    "fastify": "^3.18.0",
+    "fastify-static": "^4.2.2"
   }
 }

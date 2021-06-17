@@ -2,10 +2,16 @@
 const fastify = require('fastify')({
   logger: true
 })
+const path = require('path')
+
+fastify.register(require('fastify-static'), {
+  root: path.join(__dirname, 'public'),
+  prefix: '/public/', // optional: default '/'
+})
 
 // Declare a route
 fastify.get('/', function (request, reply) {
-  reply.send({ hello: 'world' })
+    reply.sendFile(`db.json`)
 })
 
 // Run the server!
